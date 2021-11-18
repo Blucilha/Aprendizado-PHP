@@ -1,0 +1,3 @@
+<?php
+
+    // CRIANDO BANCO DE DADOS
